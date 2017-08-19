@@ -6,6 +6,7 @@
 [1,2,3,5,2,3],6
 [1,2,2,3,3,5]
 
+```
 class BubbleSort {
 public:
     int* bubbleSort(int* A, int n) {
@@ -25,3 +26,4 @@ public:
         return A;
     }
 };
+```
